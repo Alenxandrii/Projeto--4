@@ -1,4 +1,4 @@
-criarCartao(categoria, pergunta, resposta) {
+criarCartao(categoria, pergunta, resposta) ;{
 
 }
 function criaCartao(categoria, pergunta, resposta){
